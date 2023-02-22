@@ -1,0 +1,20 @@
+{
+  "name": "errorDemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.8.3",
+    "rrweb": "^0.9.14"
+  },
+  "devDependencies": {
+    "rrweb-player": "^0.7.0"
+  }
+}
